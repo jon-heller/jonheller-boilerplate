@@ -1,0 +1,33 @@
+{
+  "name": "jonheller-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jon-heller/jonheller-boilerplate.git"
+  },
+  "author": "Jon Heller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jon-heller/jonheller-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jon-heller/jonheller-boilerplate#readme",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-text-replace": "*",
+    "grunt-notify": "*",
+    "grunt-newer": "*",
+    "jit-grunt": "*",
+    "time-grunt": "*",
+    "node-sass": "*",
+    "grunt-sass": "*",
+    "grunt-autoprefixer": "^2.0.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-browser-sync": "^1.5.3"
+  }
+}
