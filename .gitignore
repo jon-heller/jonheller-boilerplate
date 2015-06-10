@@ -10,3 +10,4 @@ library/vendor
 node_modules
 style.css
 composer.lock
+bower_components

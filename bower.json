@@ -13,6 +13,6 @@
     "tests"
   ],
   "devDependencies": {
-    "foundation": "*",
+    "foundation": "*"
   }
 }
